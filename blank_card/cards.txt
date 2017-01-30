@@ -1,0 +1,24 @@
+Grunt
+1 yellow
+1
+1
+The work force of the Orcish army
+None
+Warlord
+3 yellow
+4
+2
+All creatues with less than Warlord's attack, gain +1/+1
+None
+Radiant Ore
+3 yellow
+0
+0
+I need text
+I need txt
+Angel
+1 white
+3
+3
+Holy as can be
+Flying
